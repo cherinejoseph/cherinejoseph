@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)**
-- **[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)**
+- **[Programmatic Vulnerability Remediations (PowerSehll and BASH)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
