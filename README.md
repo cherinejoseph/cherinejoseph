@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
-- **[Security Information & Event Management (SIEM) projects](https://github.com/cherinejoseph/splunk-log-analysis/tree/main)**
+- **[Security Information & Event Management (SIEM) Log Analysis](https://github.com/cherinejoseph/splunk-log-analysis/tree/main)**
 
 
 <hr/>
