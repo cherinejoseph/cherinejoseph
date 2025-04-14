@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/cherine-joseph/">Cherine</a>'s IT and Cybersecurity Project Portfolio 💻
 
-My passion for IT and cybersecurity drives me to specialize in protecting IT systems through vulnerability management, security operations, and threat hunting. I thrive on tackling complex challenges to secure networks, identify risks, and enhance security processes. My goal is to stay ahead of evolving threats and help build resilient IT infrastructures. Feel free to explore my work and see how I’m contributing to stronger, more secure systems.
+My passion for IT and cybersecurity led me to specialize in protecting IT systems through vulnerability management, security operations, and threat hunting. I thrive on tackling complex challenges to secure networks, identify risks, and enhance security processes. As a dedicated #BlueTeam defender, my goal is to stay ahead of evolving threats and help build resilient IT infrastructures for every system I work with. Feel free to explore my work and see how I’m contributing to stronger, more secure systems. 
 
 
 ## ⚠️ Vulnerability Management Projects
