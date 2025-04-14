@@ -14,6 +14,21 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
 - **[Security Information & Event Management (SIEM) - Log Analysis](https://github.com/cherinejoseph/splunk-log-analysis/tree/main)**
 
+<hr/> 
+
+## Education
+
+- Diploma in Cybersecurity and Threat Management
+
+  InTech Institute, 06/2024 - 09/2024
+
+<hr/> 
+
+## Certifications
+
+- (ISC)² Certified in Cybersecurity
+- Google Cybersecurity Professional
+- CompTIA Security+
 
 <hr/>
 
