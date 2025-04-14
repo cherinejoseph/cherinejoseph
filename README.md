@@ -17,18 +17,38 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/> 
 
 ## Education
+- **Diploma in Cybersecurity and Threat Management**  
+  *InTech Institute, 06/2024 – 09/2024*  
+  **Key Learnings:** Network Security, Threat Management, Penetration Testing, Risk Assessment, Incident Response, Vulnerability Analysis
 
-- Diploma in Cybersecurity and Threat Management
+  **Hands-On Labs:**
+  - **Penetration Testing**: Conducted vulnerability assessments and exploitation techniques on simulated networks to identify and remediate security flaws.
+  - **Incident Response**: Managed and investigated security breaches using tools like Wireshark and Splunk, simulating real-world cyber-attacks and response strategies.
+  - **Network Security**: Configured firewalls and intrusion detection systems (IDS/IPS) to secure network infrastructures, focusing on mitigating common attack vectors like DDoS and SQL injection.
+  - **Cryptography & Data Protection**: Applied encryption techniques to safeguard sensitive data, configuring SSL/TLS protocols and public-key infrastructures (PKI).
 
-  InTech Institute, 06/2024 - 09/2024
+<hr/> 
+
+## Experience
+
+**Cyber Security Support Analyst (Vulnerability Management & SecOps Intern)**  
+*Log(N) Pacific, March 2020 - Present*
+
+During my internship at **Log(N) Pacific**, I contributed to both **Vulnerability Management** and **Security Operations** (SecOps) efforts:
+
+- **Vulnerability Management**: Performed vulnerability assessments and managed remediation efforts across **Windows** and **Linux** environments using tools like **Tenable** and **PowerShell**. I helped reduce vulnerabilities by 100% in critical areas and played a key role in ensuring compliance with industry security standards.
+  
+- **Security Operations**: Conducted **threat hunting** and responded to incidents involving brute force attacks, ransomware, and data exfiltration. I developed automated detection rules in **Microsoft Defender for Endpoint** and built custom dashboards in **Microsoft Sentinel** to improve threat monitoring. My efforts significantly enhanced the company’s response time to potential security breaches.
+
+- I gained hands-on experience with key security tools and methodologies, including **EDR**, **SIEM**, and **Kusto Query Language (KQL)**, while also fostering strong communication and collaboration across teams.
+
+
 
 <hr/> 
 
 ## Certifications
-
-- (ISC)² Certified in Cybersecurity
-- Google Cybersecurity Professional
-- CompTIA Security+
+- **(ISC)² Certified in Cybersecurity**
+- **CompTIA Security+**  07/2025
 
 <hr/>
 
