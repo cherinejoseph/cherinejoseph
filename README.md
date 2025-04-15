@@ -50,6 +50,23 @@ During my internship at **Log(N) Pacific**, I contributed to both **Vulnerabilit
 - **(ISC)² Certified in Cybersecurity**
 - **CompTIA Security+**  07/2025
 
+<hr/> 
+
+## Skills and Technologies Used
+- SOC, Vulnerability Management, Incident Response, Threat Hunting
+- Networking: 
+- SIEM (Splunk, Microsoft Sentinel), EDR (Microsoft Defender for Endpoint), IDS/IPS (Snort)
+- Malware Analysis
+- MITRE ATT&CK, Cyber Kill Chain
+- OWASP Top 10, OSINT
+- Cloud Networking & Secuirty (AWS, Microsoft Azure)
+- IAM, Active Directory
+- KQL, SPL
+- NIST: CSF 2.0, 800-53, 800-37, 800-171, 800-61, 800-40
+- Virtualization, Penetration Testing, Metasploit
+- Wireshark
+- Python, Powershell, BASH scripting (basic)
+
 <hr/>
 
 ## 🤳 Connect With Me
