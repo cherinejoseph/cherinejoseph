@@ -54,18 +54,20 @@ During my internship at **Log(N) Pacific**, I contributed to both **Vulnerabilit
 
 ## Skills and Technologies Used
 - SOC, Vulnerability Management, Incident Response, Threat Hunting
-- Networking: 
-- SIEM (Splunk, Microsoft Sentinel), EDR (Microsoft Defender for Endpoint), IDS/IPS (Snort)
+- Networking Security & Monitoring:
+  SIEM (Splunk, Microsoft Sentinel), EDR (Microsoft Defender for Endpoint), IDS/IPS (Snort), Wireshark, packet analysis
+  Virtualization: Virtual box, VMware, Hyper-V
+  Cloud: AWS, Microsoft Azure)
+- Identity & Access Management (IAM), Active Directory
+- Security Frameworks & Standards:
+  NIST CSF 2.0 (Cybersecurity Framework), NIST 800-53 (Security and Privacy Controls), NIST 800-37 (Risk Management Framework), NIST 800-171 (Protecting Controlled Unclassified Information), NIST 800-61 
+  (Computer Security Incident Handling Guide), NIST 800-40 (Patch Management)
+- Scripting & Automation: Python (basic), Powershell (basic) BASH (basic)
+- Penetration testing & Vulnerability Assessment
 - Malware Analysis
 - MITRE ATT&CK, Cyber Kill Chain
 - OWASP Top 10, OSINT
-- Cloud Networking & Secuirty (AWS, Microsoft Azure)
-- IAM, Active Directory
 - KQL, SPL
-- NIST: CSF 2.0, 800-53, 800-37, 800-171, 800-61, 800-40
-- Virtualization, Penetration Testing, Metasploit
-- Wireshark
-- Python, Powershell, BASH scripting (basic)
 
 <hr/>
 
