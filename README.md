@@ -12,7 +12,7 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
-- **[Splunk (SIEM)](https://github.com/cherinejoseph/Splunk-SIEM)**
+- **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
 
 <hr/> 
 
