@@ -20,6 +20,8 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 ## Linux OS
 
+- **[Everything Linux](https://github.com/cherinejoseph/Everything-Linux)**
+
 <hr/> 
 
 ## Education
