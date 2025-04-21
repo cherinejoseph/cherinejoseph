@@ -14,6 +14,10 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
 - **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
 
+## IT Projects
+
+- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)**
+
 <hr/> 
 
 ## Education
