@@ -22,6 +22,9 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 - **[Everything Linux](https://github.com/cherinejoseph/Everything-Linux)**
 
+## Vulnerability Management Guide
+- **[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)**
+
 <hr/> 
 
 ## Education
