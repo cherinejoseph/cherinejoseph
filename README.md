@@ -16,6 +16,7 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 ## IT Projects
 
+- **[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)** 
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)**
 
 ## Linux OS
