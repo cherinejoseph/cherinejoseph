@@ -25,7 +25,7 @@ A collection of repositories focused on HTTP status codes, their use cases, and 
 
 - **HTTP Status Code Guide (for IT Professionals)**  
   A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
-  [HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals)
+  [HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals) 
 
 - **Cybersecurity HTTP Status Code Guide**  
   A security-focused guide exploring HTTP status codes and their relevance to penetration testing, DDoS detection, and secure coding practices.  
