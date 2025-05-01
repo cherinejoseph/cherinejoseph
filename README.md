@@ -21,7 +21,7 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 ## HTTP Status Code Guides
 
-A collection of repositories focused on HTTP status codes, their use cases, and relevance to IT professionals and cybersecurity experts.
+https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 
 - **HTTP Status Code Guide (for IT Professionals)**  
   A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
