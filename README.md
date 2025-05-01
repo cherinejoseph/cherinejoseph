@@ -39,6 +39,10 @@ https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 ## Vulnerability Management Guide
 - **[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)**
 
+## OWASP Top 10 Security Risks Guide 
+  A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
+  https://github.com/cherinejoseph/OWASP-Top-10-Security-Risks
+
 <hr/> 
 
 ## Education
