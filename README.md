@@ -19,6 +19,12 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 - **[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)** 
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)**
 
+## SIEM 
+
+- **[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)**
+
+  Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
+
 ## HTTP Status Code Guides
 
 https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
