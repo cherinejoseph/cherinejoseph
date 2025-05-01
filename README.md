@@ -19,6 +19,19 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 - **[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)** 
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)**
 
+## HTTP Status Code Guides
+
+A collection of repositories focused on HTTP status codes, their use cases, and relevance to IT professionals and cybersecurity experts.
+
+- **HTTP Status Code Guide (for IT Professionals)**  
+  A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
+  [HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals)
+
+- **Cybersecurity HTTP Status Code Guide**  
+  A security-focused guide exploring HTTP status codes and their relevance to penetration testing, DDoS detection, and secure coding practices.  
+  [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)
+  
+
 ## Linux OS
 
 - **[Everything Linux](https://github.com/cherinejoseph/Everything-Linux)**
