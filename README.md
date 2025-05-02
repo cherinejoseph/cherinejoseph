@@ -51,6 +51,15 @@ https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 
 <hr/> 
 
+# Fraud Detection & Prevention in the Financial Industry
+
+This repository showcases my projects and learning related to fraud detection and prevention, specifically within the financial industry. Here, you'll find code, data analysis, and machine learning models focused on identifying fraudulent activities in financial transactions. The goal is to deepen my understanding of the tools and techniques used in financial fraud detection, while building practical skills for applying these methods in real-world scenarios.
+
+Feel free to explore the projects, and stay tuned for future updates as I continue to upskill in this area.
+
+
+<hr/> 
+
 ## Education
 - **Diploma in Cybersecurity and Threat Management**  
   *InTech Institute, 06/2024 – 09/2024*  
