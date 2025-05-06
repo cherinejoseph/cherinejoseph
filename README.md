@@ -13,6 +13,7 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
 - **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)**
+- **[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)**
 - **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
 
 ## IT Projects
