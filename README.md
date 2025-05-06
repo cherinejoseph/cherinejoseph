@@ -40,7 +40,7 @@ https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 
 ## Linux OS
 
-- **[Everything Linux](https://github.com/cherinejoseph/Everything-Linux)**
+- **[Linux Basics](https://github.com/cherinejoseph/Everything-Linux)**
 
 ## Vulnerability Management Guide
 - **[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)**
