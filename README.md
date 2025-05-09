@@ -66,21 +66,6 @@ Feel free to explore the projects, and stay tuned for future updates as I contin
 ## Tools
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable)](https://www.tenable.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)](https://azure.microsoft.com/)
 
-- SOC, Vulnerability Management, Incident Response, Threat Hunting
-- Networking Security & Monitoring:
-  SIEM (Splunk, Microsoft Sentinel), EDR (Microsoft Defender for Endpoint), IDS/IPS (Snort), Wireshark, packet analysis
-  Virtualization: Virtual box, VMware, Hyper-V
-  Cloud: AWS, Microsoft Azure)
-- Identity & Access Management (IAM), Active Directory
-- Security Frameworks & Standards:
-  NIST CSF 2.0 (Cybersecurity Framework), NIST 800-53 (Security and Privacy Controls), NIST 800-37 (Risk Management Framework), NIST 800-171 (Protecting Controlled Unclassified Information), NIST 800-61 
-  (Computer Security Incident Handling Guide), NIST 800-40 (Patch Management)
-- Scripting & Automation: Python (basic), Powershell (basic) BASH (basic)
-- Penetration testing & Vulnerability Assessment
-- Malware Analysis
-- MITRE ATT&CK, Cyber Kill Chain
-- OWASP Top 10, OSINT
-- KQL, SPL
 
 <hr/>
 
