@@ -23,7 +23,7 @@ My passion for IT and cybersecurity led me to specialize in protecting IT system
 
 ## SIEM 
 
-- **[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)**
+- **[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)** (In Progress)
 
   Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
