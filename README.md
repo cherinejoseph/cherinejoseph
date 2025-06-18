@@ -71,6 +71,7 @@ https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 ## Tools
 
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable)](https://www.tenable.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)](https://azure.microsoft.com/)
+(https://camo.githubusercontent.com/) 
 
 <hr/> 
 
