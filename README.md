@@ -1,85 +1,85 @@
-# <a href="https://www.linkedin.com/in/cherine-joseph/">Cherine</a>'s IT and Cybersecurity Project Portfolio 💻
+# Cherine's IT and Cybersecurity Project Portfolio 💻
 
 My passion for IT and cybersecurity led me to specialize in protecting IT systems through vulnerability management, security operations, and threat hunting. Over the course of 3 years in the financial industry, I developed expertise in fraud detection and prevention. By leveraging transaction monitoring systems and fraud detection tools, I became proficient at identifying fraud patterns and suspicious activity, mitigating risks before they escalate. My technical support background also played a crucial role in shaping my cybersecurity path. Working directly with clients to troubleshoot complex issues and optimize system performance gave me a deeper understanding of IT infrastructure and security vulnerabilities, which fueled my drive to specialize in cybersecurity. I thrive on tackling complex challenges to secure networks, identify risks, and enhance security processes. Now, as a dedicated #BlueTeam defender, my goal is to stay ahead of evolving threats and help build resilient IT infrastructures for every system I work with. 
 
 Feel free to explore my work, along with some invaluable resources that have helped me on my journey, and see how I’m contributing to stronger, more secure systems.
 
 
-## ⚠️ Vulnerability Management Projects
+### ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)**
-- **[Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)**
-- **[STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)**
-- **[Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)**
+- *[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)*
+- *[Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)*
+- *[STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)*
+- *[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)*
+- *[Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)*
 
-## 🚨 Threat Hunting and Security Operations
+### 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)**
-- **[Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)**
-- **[Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)**
-- **[Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)**
-- **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)**
-- **[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)**
-- **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
+- *[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)*
+- *[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)*
+- *[Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
+- *[Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
+- *[Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)**
+- **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)*
+- *[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)*
+- *[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)*
 
-## Cloud
+### Cloud
 
-- **[Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)**
+- *[Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)*
 
-## IT Projects
+### IT Projects
 
-- **[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)** 
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)**
+- *[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)*
+- *[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)*
 
-## SIEM 
+### SIEM 
 
-- **[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)** (In Progress)
+- *[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)* (In Progress)
 
   Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
-## Governance, Risk & Compliance
+### Governance, Risk & Compliance
 
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)**
+- *[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)*
 
-## HTTP Status Code Guides
+### HTTP Status Code Guides
 
 https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 
-- **HTTP Status Code Guide (for IT Professionals)**  
+- *HTTP Status Code Guide (for IT Professionals)*
   A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
-  [HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals) 
+  *[HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals)*
 
-- **Cybersecurity HTTP Status Code Guide**  
+- *Cybersecurity HTTP Status Code Guide* 
   A security-focused guide exploring HTTP status codes and their relevance to penetration testing, DDoS detection, and secure coding practices.  
-  [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)
+  *[Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)*
   
 
-## Linux OS
+### Linux OS
 
-- **[Linux Basics](https://github.com/cherinejoseph/Everything-Linux)**
+- *[Linux Basics](https://github.com/cherinejoseph/Everything-Linux)*
 
-## Vulnerability Management Guide
-- **[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)**
+### Vulnerability Management Guide
+- *[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)*
 
 ### OWASP Top 10 Security Risks Guide 
   A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
   https://github.com/cherinejoseph/OWASP-Top-10-Security-Risks
 
 
-## Tools
+### Tools
 
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable)](https://www.tenable.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)](https://azure.microsoft.com/)
 
 <hr/> 
 
-# Fraud Detection & Prevention in the Financial Industry
+### Fraud Detection & Prevention in the Financial Industry
 
 This repository showcases my projects and learning related to fraud detection and prevention, specifically within the financial industry. Here, you'll find code, data analysis, and machine learning models focused on identifying fraudulent activities in financial transactions. The goal is to deepen my understanding of the tools and techniques used in financial fraud detection, while building practical skills for applying these methods in real-world scenarios.
 
 Feel free to explore the projects, and stay tuned for future updates as I continue to upskill in this area.
-**https://github.com/cherinejoseph/fraud-detection-finance** 
+*https://github.com/cherinejoseph/fraud-detection-finance*
 
 
 <hr/>
