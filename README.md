@@ -18,6 +18,10 @@ Feel free to explore my work, along with some invaluable resources that have hel
 - **[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)**
 - **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
 
+## Cloud
+
+- **[Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)**
+
 ## IT Projects
 
 - **[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)** 
