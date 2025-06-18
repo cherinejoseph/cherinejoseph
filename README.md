@@ -16,6 +16,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)**
 - **[Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)**
+- **[Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)**
 - **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)**
 - **[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)**
 - **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
