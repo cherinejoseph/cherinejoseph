@@ -14,6 +14,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059)**
 - **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)**
 - **[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)**
 - **[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)**
