@@ -41,7 +41,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
 ## Governance, Risk & Compliance
 
-
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)**
 
 ## HTTP Status Code Guides
 
