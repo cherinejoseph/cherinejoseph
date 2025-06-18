@@ -7,41 +7,41 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
 ### ⚠️ Vulnerability Management Projects
 
-- *[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)*
-- *[Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)*
-- *[STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)*
-- *[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)*
-- *[Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)*
+- [Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)
+- [Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)
+- [STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)
+- [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)
+- [Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)
 
 ### 🚨 Threat Hunting and Security Operations
 
-- *[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)*
-- *[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)*
-- *[Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
-- *[Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
-- *[Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)*
-- *[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)*
-- *[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)*
-- *[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)*
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
+- [Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)
+- [Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)
+- [Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)
+- [Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)
+- [Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)
+- [Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)
+- [Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)
 
 ### Cloud
 
-- *[Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)*
+- [Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)
 
 ### IT Projects
 
-- *[Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)*
-- *[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)*
+- [Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)
+- [Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)
 
 ### SIEM 
 
-- *[SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases)* (In Progress)
+- [SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases) (In Progress)
 
   Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
 ### Governance, Risk & Compliance
 
-- *[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)*
+- [Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)
 
 ### HTTP Status Code Guides
 
@@ -58,10 +58,10 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
 ### Linux OS
 
-- *[Linux Basics](https://github.com/cherinejoseph/Everything-Linux)*
+- [Linux Basics](https://github.com/cherinejoseph/Everything-Linux)
 
 ### Vulnerability Management Guide
-- *[Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)*
+- [Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
 ### OWASP Top 10 Security Risks Guide 
   A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
