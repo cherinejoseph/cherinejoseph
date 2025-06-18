@@ -39,6 +39,10 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
   Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
+## Governance, Risk & Compliance
+
+
+
 ## HTTP Status Code Guides
 
 https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
