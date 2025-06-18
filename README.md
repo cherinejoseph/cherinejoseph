@@ -8,7 +8,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)**
-- **[Programmatic Vulnerability Remediations (PowerSehll and BASH)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)**
+- **[DISA STIG: Programmatic Vulnerability Remediations (PowerSehll and BASH)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)**
 - **[Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)**
 - **[Vulnerability Management](https://github.com/cherinejoseph/vulnerability-management)**
 
