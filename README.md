@@ -12,6 +12,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 - [STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)
 - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)
 - [Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)
+- [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
 ### 🚨 Threat Hunting and Security Operations
 
@@ -60,8 +61,6 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
 - [Linux Basics](https://github.com/cherinejoseph/Everything-Linux)
 
-### Vulnerability Management Guide
-- [Vulnerability Management basics and need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
 ### OWASP Top 10 Security Risks Guide 
   A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
