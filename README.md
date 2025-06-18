@@ -14,6 +14,14 @@ Feel free to explore my work, along with some invaluable resources that have hel
 - [Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)
 - [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
+<!-- Dropdown Section for Image -->
+<div class="dropdown">
+  <button class="dropdown-button">View My Setup </button>
+  <div class="dropdown-content">
+    <a href="https://media.licdn.com/dms/image/v2/D4D22AQFD5tXGx7IwTA/feedshare-shrink_1280/B4DZbRZMHPH8Ak-/0/1747269764469?e=1753315200&v=beta&t=M3A9C58pDIfFzXXq7x4knZK85OQvcteaJd4AVRdMovQ" target="_blank">Click to View Image</a>
+  </div>
+</div>
+
 ### 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
