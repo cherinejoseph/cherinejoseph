@@ -19,8 +19,8 @@ Feel free to explore my work, along with some invaluable resources that have hel
 - *[Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)*
 - *[Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
 - *[Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)*
-- *[Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)**
-- **[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)*
+- *[Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)*
+- *[Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)*
 - *[Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)*
 - *[Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)*
 
@@ -45,7 +45,7 @@ Feel free to explore my work, along with some invaluable resources that have hel
 
 ### HTTP Status Code Guides
 
-https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
+*https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals*
 
 - *HTTP Status Code Guide (for IT Professionals)*
   A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
@@ -65,7 +65,7 @@ https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals
 
 ### OWASP Top 10 Security Risks Guide 
   A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
-  https://github.com/cherinejoseph/OWASP-Top-10-Security-Risks
+  *https://github.com/cherinejoseph/OWASP-Top-10-Security-Risks*
 
 
 ### Tools
