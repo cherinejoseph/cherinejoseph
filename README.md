@@ -18,7 +18,7 @@ Feel free to explore my work and resources that have helped me along the way in 
 
 <!-- Dropdown Section for Image -->
 <div class="dropdown">
-  <button class="dropdown-button">View My Vulnerability Manageemnt Workflow Setup during my Internsip at LOG(N) Pacific </button>
+  <button class="dropdown-button">View My Vulnerability Management Workflow Setup during my Internsip at LOG(N) Pacific </button>
   <div class="dropdown-content">
     <a href="https://media.licdn.com/dms/image/v2/D4D22AQFD5tXGx7IwTA/feedshare-shrink_1280/B4DZbRZMHPH8Ak-/0/1747269764469?e=1753315200&v=beta&t=M3A9C58pDIfFzXXq7x4knZK85OQvcteaJd4AVRdMovQ" target="_blank">Click to View Image</a>
   </div>
