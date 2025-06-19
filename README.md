@@ -1,6 +1,6 @@
 # Cherine's IT and Cybersecurity Project Portfolio 💻
 
-I’m passionate about IT and cybersecurity, specializing in vulnerability management, security operations, and threat hunting. With 3 years of experience in the financial industry, I developed expertise in fraud detection and prevention, using transaction monitoring systems to identify patterns and mitigate risks early. My technical support background deepened my understanding of IT infrastructure and security vulnerabilities, driving my focus on cybersecurity.
+I’m passionate about IT and cybersecurity, specializing in vulnerability management, security operations, and threat hunting. With over 3 years of experience in the banking/financial industry, I developed expertise in fraud detection and prevention, using transaction monitoring systems to identify patterns and mitigate risks early. My technical support background deepened my understanding of IT infrastructure and security vulnerabilities, driving my focus on cybersecurity.
 
 As a dedicated #BlueTeam defender, I thrive on tackling complex challenges to secure networks and build resilient IT systems. I maintain a student mentality, constantly learning and pursuing certifications to stay ahead of evolving threats and technologies.
 
