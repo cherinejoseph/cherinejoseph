@@ -2,6 +2,8 @@
 
 My passion for IT and cybersecurity led me to specialize in protecting IT systems through vulnerability management, security operations, and threat hunting. Over the course of 3 years in the financial industry, I developed expertise in fraud detection and prevention. By leveraging transaction monitoring systems and fraud detection tools, I became proficient at identifying fraud patterns and suspicious activity, mitigating risks before they escalate. My technical support background also played a crucial role in shaping my cybersecurity path. Working directly with clients to troubleshoot complex issues and optimize system performance gave me a deeper understanding of IT infrastructure and security vulnerabilities, which fueled my drive to specialize in cybersecurity. I thrive on tackling complex challenges to secure networks, identify risks, and enhance security processes. Now, as a dedicated #BlueTeam defender, my goal is to stay ahead of evolving threats and help build resilient IT infrastructures for every system I work with. 
 
+I keep a student mentality, which fuels my continuous learning and drives me to actively pursue certifications, staying ahead of emerging threats and evolving technologies in the cybersecurity landscape. 
+
 Feel free to explore my work, along with some invaluable resources that have helped me on my journey, and see how I’m contributing to stronger, more secure systems.
 
 
