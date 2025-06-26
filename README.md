@@ -51,6 +51,10 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 - [Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)
 
+### Coursework
+
+- [Security Infrastructure Design Project - Google IT Certification](https://github.com/cherinejoseph/culture-of-security)
+
 ### HTTP Status Code Guides
 
 *https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals*
@@ -77,6 +81,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### Tools
 
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable)](https://www.tenable.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)](https://azure.microsoft.com/)
+
 
 <hr/> 
 
