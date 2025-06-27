@@ -55,6 +55,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 - [Security Infrastructure Design Project - Google IT Certification](https://github.com/cherinejoseph/culture-of-security)
 - [System Administraion & IT Infrastructure Services - Google IT Certification](https://github.com/cherinejoseph/system-administration)
+- [IT Inrastructure Setup for a Startup company - Google IT certification](https://github.com/cherinejoseph/setting-up-it-infrastructure) 
 
 ### HTTP Status Code Guides
 
