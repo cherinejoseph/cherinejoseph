@@ -69,7 +69,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 - *Cybersecurity HTTP Status Code Guide* 
   A security-focused guide exploring HTTP status codes and their relevance to penetration testing, DDoS detection, and secure coding practices.  
-  *[Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)*
+  *[Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it.)*
   
 
 ### Linux OS
