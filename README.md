@@ -53,11 +53,12 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 ### Coursework
 
-- [Security Infrastructure Design Project - Google IT Support Professional Certification](https://github.com/cherinejoseph/culture-of-security)
-- [System Administraion & IT Infrastructure Services - Google IT Support Professional Certification](https://github.com/cherinejoseph/system-administration)
-- [IT Inrastructure Setup for a Startup company - Google IT Support Professional certification](https://github.com/cherinejoseph/setting-up-it-infrastructure)
-- [Conducting an Internal Security Audit - Google Cybersecurity Professional Certification](https://github.com/cherinejoseph/security-audit)
-- [Responding to a security incident using NIST CSF - Google Cybersecurity Professional Certificate](https://github.com/cherinejoseph/incident-response-nist-csf)
+- [Security Infrastructure Design Project - Google IT Support Pro Certification](https://github.com/cherinejoseph/culture-of-security)
+- [System Administraion & IT Infrastructure Services - Google IT Support Pro Certification](https://github.com/cherinejoseph/system-administration)
+- [IT Inrastructure Setup for a Startup company - Google IT Support Pro certification](https://github.com/cherinejoseph/setting-up-it-infrastructure)
+- [Conducting an Internal Security Audit - Google Cybersecurity Pro Certification](https://github.com/cherinejoseph/security-audit)
+- [Responding to a security incident using NIST CSF - Google Cybersecurity Pro Certification](https://github.com/cherinejoseph/incident-response-nist-csf)
+- [Incident Handler's Journal - Google Cybersecurity Pro Certification](https://github.com/cherinejoseph/incident-documentation)
 
 ### HTTP Status Code Guides
 
