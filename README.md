@@ -52,6 +52,10 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
   Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
+### Extracurricular
+
+- [Cyber Breach Log Analysis - Forage](https://github.com/cherinejoseph/cybersecurity-breach-simulation)
+
 ### Governance, Risk & Compliance
 
 - [Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/cherinejoseph/grc-project-nist-csf)
