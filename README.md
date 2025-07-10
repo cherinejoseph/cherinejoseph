@@ -55,6 +55,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### Extracurricular
 
 - [Cyber Breach Log Analysis - Forage](https://github.com/cherinejoseph/cybersecurity-breach-simulation)
+- [Mastercard Security Awareness Project (Phishing Email) - Forage](https://github.com/cherinejoseph/phishing-email-simulation)
 
 ### Governance, Risk & Compliance
 
