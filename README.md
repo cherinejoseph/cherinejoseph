@@ -12,7 +12,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 - [Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)
 - [Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)
-- [STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/programmatic-vulnerability-remediations)
+- [STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/STIG-implementations)
 - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)
 - [Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)
 - [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
