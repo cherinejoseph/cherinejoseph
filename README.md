@@ -12,9 +12,6 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 - [Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)
 - [Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)
-- [STIG Implementations Remediations (PowerShell)](https://github.com/cherinejoseph/STIG-implementations)
-- [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cherinejoseph/Remediation-Automation-BASH-and-PowerShell)
-- [Ensure Audit Remediation Win Server for Password, Encryption, Admin (PowerShell)](https://github.com/cherinejoseph/Audit-Remediation-Win-Server)
 - [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
 <!-- Dropdown Section for Image -->
@@ -29,17 +26,10 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
-- [Threat Hunting Scenario - Powershell (T1059)](https://github.com/cherinejoseph/Threat-Hunting-Powershell-T1059.001)
-- [Threat Hunting Scenario: Brute Force/Credential Stuffing (T1110.004)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)
-- [Threat Hunting Scenario: Data Exfiltration (T1027.003)](https://github.com/cherinejoseph/Threat-Hunting-Credential-Stuffing-Attack-T1110.004)
-- [Threat Hunting Scenario: Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/cherinejoseph/Threat-Hunting-Phantom-Hakcers-APT)
-- [Suspicious Sign-In Detection (KQL)](https://github.com/cherinejoseph/suspicious-signin-detection-kql)
-- [Network Traffic Anomaly Detection](https://github.com/cherinejoseph/network-traffic-anomaly-detection)
+
+
 - [Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)
 
-### Cloud
-
-- [Microsoft Azure Honeypot 🍯](https://github.com/cherinejoseph/microsoft-azure-honeypot)
 
 ### IT Projects
 
