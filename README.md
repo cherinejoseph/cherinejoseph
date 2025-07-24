@@ -14,6 +14,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 - [Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)
 - [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
+
 <!-- Dropdown Section for Image -->
 <div class="dropdown">
   <button class="dropdown-button">View My Vulnerability Management Workflow Setup during my Internsip at LOG(N) Pacific </button>
