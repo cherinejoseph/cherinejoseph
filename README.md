@@ -13,7 +13,6 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 - [Vulnerability Management Program Implementation](https://github.com/cherinejoseph/vulnerability-management-1)
 - [Vulnerability Management Lab](https://github.com/cherinejoseph/vulnerability-management)
 - [DISA STIG - Implementation Remediations for Windows10 (PowerShell)](https://github.com/cherinejoseph/STIG-Implementation-Remediations-Win10/blob/main/README.md)
-- [Vulnerability Management Guide: Foundations & Need to know](https://github.com/cherinejoseph/my-vulnerability-management-guide)
 
 
 <!-- Dropdown Section for Image -->
