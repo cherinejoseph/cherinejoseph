@@ -27,8 +27,6 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
-
-
 - [Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)
 
 
