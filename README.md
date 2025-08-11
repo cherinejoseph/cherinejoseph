@@ -17,9 +17,13 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 
 <!-- Dropdown Section for Image -->
 <div class="dropdown">
-  <button class="dropdown-button">View My Vulnerability Management Workflow Setup during my Internsip at LOG(N) Pacific </button>
+  <button class="dropdown-button">
+    View My Vulnerability Management Workflow Setup during my Internship at LOG(N) Pacific
+  </button>
   <div class="dropdown-content">
-    <a href="https://private-user-images.githubusercontent.com/198124974/456695334-d8a497aa-e422-456d-8db1-f7a79ab8eb1c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMzNzExNjQsIm5iZiI6MTc1MzM3MDg2NCwicGF0aCI6Ii8xOTgxMjQ5NzQvNDU2Njk1MzM0LWQ4YTQ5N2FhLWU0MjItNDU2ZC04ZGIxLWY3YTc5YWI4ZWIxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNFQxNTI3NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDhjY2E2NDJlZjAzYzA2M2U1NTI0NzQ2OGFmODhkZDQyMWQzYzYyMTUyYTkwODFkMjQwOWNhYWY5ZWUzN2ZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kZXRnhU7bkNYXJXLHAVxxL71J10FqwDLBP5C2enJEIc" target="_blank">Click to View Image</a>
+    <a href="https://github.com/user-attachments/assets/43038d92-7125-4ff9-b466-0ab013bc9fa6" target="_blank">
+      Click to View Image
+    </a>
   </div>
 </div>
 
