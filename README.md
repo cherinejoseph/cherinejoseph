@@ -31,19 +31,12 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
-- [Splunk (SIEM) Set Up](https://github.com/cherinejoseph/Splunk-SIEM)
 
 
 ### IT Projects
 
 - [Active Directory Lab: Set Up & Management](https://github.com/cherinejoseph/Active-Directory-Lab)
 - [Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/cherinejoseph/Active-Directory)
-
-### SIEM 
-
-- [SIEM Detection Use Cases](https://github.com/cherinejoseph/SIEM-Detection-Use-Cases) (In Progress)
-
-  Real-world detection scenarios with logs, Sigma rules, and MITRE mappings for SOC analysts.
 
 ### Extracurricular
 
@@ -63,37 +56,6 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 - [Responding to a security incident using NIST CSF - Google Cybersecurity Pro Certification](https://github.com/cherinejoseph/incident-response-nist-csf)
 - [Incident Handler's Journal - Google Cybersecurity Pro Certification](https://github.com/cherinejoseph/incident-documentation)
 
-### HTTP Status Code Guides
-
-*https://github.com/cherinejoseph/HTTP-Status-Code-Guide-for-IT-Professionals*
-
-- *HTTP Status Code Guide (for IT Professionals)*
-  A comprehensive guide covering common HTTP status codes and their use cases in IT support, troubleshooting, and development.  
-  *[HTTP Status Code Guide (for IT Professionals)](https://github.com/your-username/HTTP-Status-Code-Guide-for-IT-Professionals)*
-
-- *Cybersecurity HTTP Status Code Guide* 
-  A security-focused guide exploring HTTP status codes and their relevance to penetration testing, DDoS detection, and secure coding practices.  
-  *[Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it.)*
-  
-
-### Linux OS
-
-- [Linux Basics](https://github.com/cherinejoseph/Everything-Linux)
-
-
-### OWASP Top 10 Security Risks Guide 
-  A comprehensive guide on the OWASP Top 10 security risks, including descriptions, examples, and mitigation strategies.  
-  *https://github.com/cherinejoseph/OWASP-Top-10-Security-Risks*
-
-
-<hr/> 
-
-### Fraud Detection & Prevention in the Financial Industry
-
-This repository showcases my projects and learning related to fraud detection and prevention, specifically within the financial industry. Here, you'll find code, data analysis, and machine learning models focused on identifying fraudulent activities in financial transactions. The goal is to deepen my understanding of the tools and techniques used in financial fraud detection, while building practical skills for applying these methods in real-world scenarios.
-
-Feel free to explore the projects, and stay tuned for future updates as I continue to upskill in this area.
-*https://github.com/cherinejoseph/fraud-detection-finance*
 
 
 <hr/>
