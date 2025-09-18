@@ -31,6 +31,7 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 ### 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
+- [Threat Hunting Scenario (Suspicious PowerShell Activity)] (https://github.com/cherinejoseph/threat-hunting-scenario-powershell)
 
 
 ### IT Projects
