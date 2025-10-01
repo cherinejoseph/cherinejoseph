@@ -34,6 +34,9 @@ As a dedicated Blue Team Defender, I thrive on securing networks, identifying ri
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cherinejoseph/threat-hunting-scenario-tor)
 - [Threat Hunting Scenario (Suspicious PowerShell Activity)](https://github.com/cherinejoseph/threat-hunting-scenario-powershell)
 
+### Cloud
+- [Azure SOC Honeypot](https://github.com/cherinejoseph/azure-honeypot-lab)
+
 
 ### IT Projects
 
